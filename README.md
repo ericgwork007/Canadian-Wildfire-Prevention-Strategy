@@ -50,3 +50,86 @@ The dimension tables I created include:
 - **Fire Size Class**
 
 This structure helped standardize repeated fields across different datasets and made the data model more scalable. Initial checks involved verifying data consistency across time periods, ensuring there were no missing or duplicate records in key fields, and cleaning column names for better readability.
+
+
+# Executive Summary
+
+### Overview of Findings
+
+This analysis reveals the urgent need for smarter wildfire prevention strategies in Canada. Although the Northwest Territories experienced the highest area burned, British Columbia faced the most wildfire incidents—over 60,000—resulting in the highest financial losses, even from smaller fires. Across the country, nearly half of all wildfires were caused by human activities, particularly during the high-risk months of May through July.
+
+Additionally, commercial forestry has been significantly affected, with nearly 7 million hectares of commercial wood supply lost to wildfires. Many of these losses occurred in Quebec, Ontario, and British Columbia, stressing the need for better harvesting and supply chain planning.
+
+By analyzing historical fire data alongside seasonal and geographic patterns, this project supports the development of prevention strategies focused on regulation, public awareness, and readiness ahead of the summer fire season.
+
+  <img width="517" alt="image" src="https://github.com/user-attachments/assets/f945d3bf-a822-4dd8-8914-3f895879986d" /> <img width="442" alt="image" src="https://github.com/user-attachments/assets/bf329697-dcbc-42e7-af4c-e22614b95c78" />
+
+
+# Insights Deep Dive
+
+### Fire Frequency & Regional Impact
+
+* **British Columbia had the highest number of wildfire incidents**, with over 60,000 fires reported historically. Alberta followed with approximately 42,000 fires. This highlights a need for sustained fire prevention and preparedness in these provinces.
+
+* **The Northwest Territories experienced the largest area burned**, with 18.91 million acres impacted, followed by Saskatchewan with 15.97 million acres. Fires in these regions tend to be large in size and harder to contain due to their remote nature.
+
+* **Smaller fires are more frequent but contribute significantly to costs**, especially in populated regions like British Columbia and Ontario. This indicates that even low-scale incidents can create high fiscal burdens if not managed early.
+
+* **Fire activity is not evenly distributed across provinces**, suggesting that localized strategies are required, rather than a one-size-fits-all approach.
+
+   <img width="691" alt="image" src="https://github.com/user-attachments/assets/2a882eab-ec1c-4964-9dad-cecb1f8ab77d" />
+
+
+
+
+
+
+
+
+### Economic and Environmental Impact
+
+* **Over $119 million in wildfire damages were recorded in British Columbia**, driven largely by high fire frequency and response costs. Ontario also faced major economic losses, even though it had fewer fires overall.
+
+* **Wildfires have destroyed approximately 7 million hectares of commercial wood supply**, directly affecting the forestry economy. Quebec and Ontario lost 2 million hectares each, and British Columbia lost 1 million hectares.
+
+* **Wildfires cause significant disruption to communities**, leading to evacuations, property loss, and interruptions to local economies—particularly in fire-prone rural and semi-urban regions.
+
+* **Environmental degradation from wildfires impacts biodiversity and public health**, especially through air pollution, water contamination, and habitat loss.
+
+  <img width="331" alt="image" src="https://github.com/user-attachments/assets/12ddafda-4188-4352-9743-16771d7f47af" />     <img width="332" alt="image" src="https://github.com/user-attachments/assets/49c33c94-2660-4c0a-af90-fe3c195cf261" />  ![image](https://github.com/user-attachments/assets/af86df1a-2300-4efa-9b99-5b26e9e14a19)
+
+
+
+
+
+
+### Human Causes & Policy Gaps
+
+* **48% of all wildfires (111,447 out of 228,402) were caused by human activities**, making human behavior one of the most controllable factors in wildfire prevention.
+
+* **Most human-caused fires occur during the early fire season**, indicating a need for heightened awareness and enforcement in spring and early summer months.
+
+* **Current regulations may not be sufficient to reduce risky behavior**, such as open fires, careless smoking, or recreational negligence in forested areas.
+
+* **Prevention strategies like responsible recreation, designated fire-safe zones, and public education campaigns could drastically reduce fire frequency.**
+
+  <img width="565" alt="image" src="https://github.com/user-attachments/assets/977e57bd-f01d-4241-a55b-811a306e235c" />
+
+
+
+### Seasonal Trends & Risk Mitigation
+
+* **Fire activity peaks in May, June, and July**, which together account for over 130,000 fire incidents and more than 62 million hectares burned. This calls for pre-summer preparation strategies.
+
+* **Early hazard assessments and community preparedness can reduce impact**, especially in high-risk zones identified from historical data.
+
+* **Strict fire bans and responsive mobilization during peak months are critical**, particularly in provinces like Alberta, BC, and Saskatchewan.
+
+* **Global best practices such as Australia’s Lightning Detection Network and Mediterranean fire-resistant vegetation offer promising models** that could be adapted for Canada’s needs, especially in lightning-prone regions like the Northwest Territories.
+
+  <img width="537" alt="image" src="https://github.com/user-attachments/assets/0c359112-c2ec-4da0-9821-2cbc47aaaab7" />
+
+
+
+
+
