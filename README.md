@@ -59,7 +59,7 @@ Additionally, commercial forestry has been significantly affected, with nearly 7
 
 By analyzing historical fire data alongside seasonal and geographic patterns, this project supports the development of prevention strategies focused on regulation, public awareness, and readiness ahead of the summer fire season.
 
-  <img width="517" alt="image" src="https://github.com/user-attachments/assets/f945d3bf-a822-4dd8-8914-3f895879986d" /> <img width="442" alt="image" src="https://github.com/user-attachments/assets/bf329697-dcbc-42e7-af4c-e22614b95c78" />
+  <img width="517" alt="image" src="https://github.com/user-attachments/assets/f945d3bf-a822-4dd8-8914-3f895879986d" /><img width="442" alt="image" src="https://github.com/user-attachments/assets/bf329697-dcbc-42e7-af4c-e22614b95c78" />
 
 
 # Insights Deep Dive
