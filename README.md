@@ -1,6 +1,3 @@
-# Canadian-Wildfire-Prevention-Strategy
-This is a dashboard that visualizes Canadian wildfire data extracted from the National Forestry Database.
-
 # Project Background
 
 As part of my portfolio, I explored wildfire prevention strategies in Canada using data from the **National Forestry Database (NFD)**.
@@ -128,6 +125,33 @@ By analyzing historical fire data alongside seasonal and geographic patterns, th
 * **Global best practices such as Australia’s Lightning Detection Network and Mediterranean fire-resistant vegetation offer promising models** that could be adapted for Canada’s needs, especially in lightning-prone regions like the Northwest Territories.
 
   <img width="537" alt="image" src="https://github.com/user-attachments/assets/0c359112-c2ec-4da0-9821-2cbc47aaaab7" />
+
+# Recommendations
+
+Based on the insights and findings above, I recommend that the **Natural Resources and Forestry Policy Team** consider the following actions to improve wildfire prevention, preparedness, and response:
+
+* **Implement stronger seasonal prevention measures.**  
+  Wildfire activity peaks between May and July. **Conduct pre-summer fire hazard assessments**, enforce early **fire bans in high-risk regions**, and mobilize suppression resources before peak season begins.
+
+* **Target public awareness campaigns toward human-caused fires.**  
+  Since **48% of wildfires are caused by human activities**, increasing education around responsible recreation, smoking, and open fires in natural areas can significantly reduce fire frequency.
+
+* **Enforce fire-safe zones and clear signage in recreational areas.**  
+  Establishing designated fire-resistant zones with **visible rules and patrols** will help mitigate risks in areas with heavy foot traffic and camping activities.
+
+* **Adopt early-detection technologies in lightning-prone regions.**  
+  The Northwest Territories experiences large-scale fires primarily due to lightning. Implementing systems similar to Australia’s **Lightning Detection Network** can help detect threats early and enable a faster response.
+
+* **Protect commercial wood supply through smarter harvesting policies.**  
+  With **7 million hectares of commercial wood impacted**, forestry operations should integrate **risk zones into their planning** to reduce potential economic losses.
+
+* **Study and replicate global best practices in fire prevention.**  
+  International examples, such as the use of **fire-resistant vegetation** in the Mediterranean and **strategic firebreaks** in Australia, offer proven techniques that can be adapted to Canadian ecosystems.
+
+* **Create province-specific prevention strategies.**  
+  Because fire frequency and causes vary significantly by region, a **one-size-fits-all approach is insufficient**. Customized policies per province can lead to more effective prevention and resource use.
+
+
 
 
 
